@@ -1,73 +1,74 @@
-VZA1001	Gate	Kafue	Zambia	cynosuros
-VZA1002	Gate	Kafue	Zambia	cynosuros
-VZA1003	Gate	Kafue	Zambia	cynosuros
-VZA1004	Gate	Kafue	Zambia	cynosuros
-VZA2005	Gate	Kafue	Zambia	cynosuros
-VZA2006	Gate	Kafue	Zambia	cynosuros
-VZA3008	Mukambi	Kafue	Zambia	cynosuros
-VZA3009	Mukambi	Kafue	Zambia	cynosuros
-VZA3010	Mukambi	Kafue	Zambia	cynosuros
-VZA4012	Lilayi	Lusaka	Zambia	cynosuros
-VZA4013	Lilayi	Lusaka	Zambia	cynosuros
-VZC1014	Livingstone	Livingston	Zambia	cynosuros
-VZC1015	Livingstone	Livingston	Zambia	cynosuros
-VZC1017	Livingstone	Livingston	Zambia	cynosuros
-VZC1018	Livingstone	Livingston	Zambia	cynosuros
-VZC1020	Livingstone	Livingston	Zambia	cynosuros
-VSAA2010	Soetdoring	Free State	South Africa	pygerythrus
-VSAA2015	Soetdoring	Free State	South Africa	pygerythrus
-VSAA2020	Soetdoring	Free State	South Africa	pygerythrus
-VSAB1003	Gariep	Free State	South Africa	pygerythrus
-VSAB2009	Gariep	Free State	South Africa	pygerythrus
-VSAB2010	Gariep	Free State	South Africa	pygerythrus
-VSAB2011	Gariep	Free State	South Africa	pygerythrus
-VSAB2012	Gariep	Free State	South Africa	pygerythrus
-VSAB2017	Gariep	Free State	South Africa	pygerythrus
-VSAB2023	Gariep	Free State	South Africa	pygerythrus
-VSAB3001	Gariep	Free State	South Africa	pygerythrus
-VSAB3004	Gariep	Free State	South Africa	pygerythrus
-VSAB5004	Gariep	Free State	South Africa	pygerythrus
-VSAB5005	Gariep	Free State	South Africa	pygerythrus
-VSAC1004	Sandveld	Free State	South Africa	pygerythrus
-VSAC1012	Sandveld	Free State	South Africa	pygerythrus
-VSAC1014	Sandveld	Free State	South Africa	pygerythrus
-VSAC1015	Sandveld	Free State	South Africa	pygerythrus
-VSAC1016	Sandveld	Free State	South Africa	pygerythrus
-VSAD1003	Parys	Free State	South Africa	pygerythrus
-VSAE2005	Zinkwazi	KwaZulu-Natal	South Africa	pygerythrus
-VSAE2009	Zinkwazi	KwaZulu-Natal	South Africa	pygerythrus
-VSAE2011	Zinkwazi	KwaZulu-Natal	South Africa	pygerythrus
-VSAE3001	Zinkwazi	KwaZulu-Natal	South Africa	pygerythrus
-VSAE3002	Zinkwazi	KwaZulu-Natal	South Africa	pygerythrus
-VSAE3003	Zinkwazi	KwaZulu-Natal	South Africa	pygerythrus
-VSAF1004	Blythedale Beach	KwaZulu-Natal	South Africa	pygerythrus
-VSAF1009	Blythedale Beach	KwaZulu-Natal	South Africa	pygerythrus
-VSAF1011	Blythedale Beach	KwaZulu-Natal	South Africa	pygerythrus
-VSAF1012	Blythedale Beach	KwaZulu-Natal	South Africa	pygerythrus
-VSAF1015	Blythedale Beach	KwaZulu-Natal	South Africa	pygerythrus
-VSAG2001	Kwela	KwaZulu-Natal	South Africa	pygerythrus
-VSAG2003	Kwela	KwaZulu-Natal	South Africa	pygerythrus
-VSAG2005	Kwela	KwaZulu-Natal	South Africa	pygerythrus
-VSAH1001	Anerley	KwaZulu-Natal	South Africa	pygerythrus
-VSAI3005	Letsitele	Limpopo	South Africa	pygerythrus
-VSAJ2008	Letsitele	Limpopo	South Africa	pygerythrus
-VSAK3004	Shamwari	Eastern Cape	South Africa	pygerythrus
-VSAL1001	Shamwari	Eastern Cape	South Africa	pygerythrus
-VSAL2002	Shamwari	Eastern Cape	South Africa	pygerythrus
-VSAL3005	Shamwari	Eastern Cape	South Africa	pygerythrus
-VSAL4002	Shamwari	Eastern Cape	South Africa	pygerythrus
-VSAL5001	Shamwari	Eastern Cape	South Africa	pygerythrus
-VSAM0021	Amakhala	Eastern Cape	South Africa	pygerythrus
-VSAM1003	Amakhala	Eastern Cape	South Africa	pygerythrus
-VSAM2001	Amakhala	Eastern Cape	South Africa	pygerythrus
-VSAM3001	Amakhala	Eastern Cape	South Africa	pygerythrus
-VSAM4001	Amakhala	Eastern Cape	South Africa	pygerythrus
-VSAM5007	Addo	Eastern Cape	South Africa	pygerythrus
-VKA3	Samburu	Lowland	Kenya	hilgerti
-VKB7	Mosiro	Lowland	Kenya	hilgerti
-VKC6	Naivasha	Highland	Kenya	hilgerti
-VKD7	Kimana	Highland	Kenya	hilgerti
-VBOA1003	Kasane	Kasane	Botswana	pygerythrus
-VBOA1005	Kasane	Kasane	Botswana	pygerythrus
-AG23	Unknown	Unknown	Tanzania	hilgerti
-AG5417	Unknown	Unknown	Tanzania	hilgerti
+Sample	Pop	Region	Country Taxon Population
+VZA1001	Gate	Kafue	Zambia	cynosuros	cynosuros
+VZA1002	Gate	Kafue	Zambia	cynosuros	cynosuros
+VZA1003	Gate	Kafue	Zambia	cynosuros	cynosuros
+VZA1004	Gate	Kafue	Zambia	cynosuros	cynosuros
+VZA2005	Gate	Kafue	Zambia	cynosuros	cynosuros
+VZA2006	Gate	Kafue	Zambia	cynosuros	cynosuros
+VZA3008	Mukambi	Kafue	Zambia	cynosuros	cynosuros
+VZA3009	Mukambi	Kafue	Zambia	cynosuros	cynosuros
+VZA3010	Mukambi	Kafue	Zambia	cynosuros	cynosuros
+VZA4012	Lilayi	Lusaka	Zambia	cynosuros	cynosuros
+VZA4013	Lilayi	Lusaka	Zambia	cynosuros	cynosuros
+VZC1014	Livingstone	Livingston	Zambia	cynosuros	cynosuros
+VZC1015	Livingstone	Livingston	Zambia	cynosuros	cynosuros
+VZC1017	Livingstone	Livingston	Zambia	cynosuros	cynosuros
+VZC1018	Livingstone	Livingston	Zambia	cynosuros	cynosuros
+VZC1020	Livingstone	Livingston	Zambia	cynosuros	cynosuros
+VSAA2010	Soetdoring	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAA2015	Soetdoring	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAA2020	Soetdoring	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAB1003	Gariep	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAB2009	Gariep	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAB2010	Gariep	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAB2011	Gariep	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAB2012	Gariep	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAB2017	Gariep	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAB2023	Gariep	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAB3001	Gariep	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAB3004	Gariep	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAB5004	Gariep	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAB5005	Gariep	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAC1004	Sandveld	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAC1012	Sandveld	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAC1014	Sandveld	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAC1015	Sandveld	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAC1016	Sandveld	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAD1003	Parys	Free State	South Africa	pygerythrus	pygerythrus-FreeState
+VSAE2005	Zinkwazi	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAE2009	Zinkwazi	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAE2011	Zinkwazi	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAE3001	Zinkwazi	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAE3002	Zinkwazi	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAE3003	Zinkwazi	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAF1004	Blythedale Beach	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAF1009	Blythedale Beach	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAF1011	Blythedale Beach	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAF1012	Blythedale Beach	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAF1015	Blythedale Beach	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAG2001	Kwela	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAG2003	Kwela	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAG2005	Kwela	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAH1001	Anerley	KwaZulu-Natal	South Africa	pygerythrus	pygerythrus-KwaZulu-Natal
+VSAI3005	Letsitele	Limpopo	South Africa	pygerythrus pygerythrus-Limpopo
+VSAJ2008	Letsitele	Limpopo	South Africa	pygerythrus	pygerythrus-Limpopo
+VSAK3004	Shamwari	Eastern Cape	South Africa	pygerythrus	pygerythrus-EasternCape
+VSAL1001	Shamwari	Eastern Cape	South Africa	pygerythrus	pygerythrus-EasternCape
+VSAL2002	Shamwari	Eastern Cape	South Africa	pygerythrus	pygerythrus-EasternCape
+VSAL3005	Shamwari	Eastern Cape	South Africa	pygerythrus	pygerythrus-EasternCape
+VSAL4002	Shamwari	Eastern Cape	South Africa	pygerythrus	pygerythrus-EasternCape
+VSAL5001	Shamwari	Eastern Cape	South Africa	pygerythrus	pygerythrus-EasternCape
+VSAM0021	Amakhala	Eastern Cape	South Africa	pygerythrus	pygerythrus-EasternCape
+VSAM1003	Amakhala	Eastern Cape	South Africa	pygerythrus	pygerythrus-EasternCape
+VSAM2001	Amakhala	Eastern Cape	South Africa	pygerythrus	pygerythrus-EasternCape
+VSAM3001	Amakhala	Eastern Cape	South Africa	pygerythrus	pygerythrus-EasternCape
+VSAM4001	Amakhala	Eastern Cape	South Africa	pygerythrus	pygerythrus-EasternCape
+VSAM5007	Addo	Eastern Cape	South Africa	pygerythrus	pygerythrus-EasternCape
+VKA3	Samburu	Lowland	Kenya	hilgerti	hilgerti
+VKB7	Mosiro	Lowland	Kenya	hilgerti	hilgerti
+VKC6	Naivasha	Highland	Kenya	hilgerti	hilgerti
+VKD7	Kimana	Highland	Kenya	hilgerti	hilgerti
+VBOA1003	Kasane	Kasane	Botswana	pygerythrus	pygerythrus-Botswana
+VBOA1005	Kasane	Kasane	Botswana	pygerythrus	pygerythrus-Botswana
+AG23	Unknown	Unknown	Tanzania	hilgerti	hilgerti
+AG5417	Unknown	Unknown	Tanzania	hilgerti	hilgerti
